@@ -1,1 +1,3 @@
-Applied_data_science_acpstone
+# Applied Data Science Capstone
+
+This repository is for final project of IBM Data Science Professional.
